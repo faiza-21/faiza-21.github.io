@@ -11,25 +11,25 @@ body {
 /* STYLE TEXT */
 
 h1 {
-  color: floralwhite;
+  color: #FFFAF0;
   background-color: #C1B399;
   text-align: center;
   padding:1em;
 }
 h2 {
-  color: floralwhite;
+  color: #FFFAF0;
   margin: 1em;
   text-decoration: underline;
 }
  p {
-   color:navy;
+   color:#000080;
    margin: 1em;
    font-size: 20px;
  }
 
 ul {
   list-style-type: none;
-  background-color: floralwhite;
+  background-color: #FFFAF0;
   overflow:hidden;
   padding: 1em;
 }
@@ -42,7 +42,7 @@ li a {
   text-decoration: none;
   font-size: 1.5em;
   padding:1.5em;
-  color: navy;
+  color: #000080;
 }
 
 li a:hover{
@@ -57,7 +57,7 @@ li a:hover{
 img {
   max-width: 30%;
   max-height: 30%;
-  border: 10px solid tan;
+  border: 10px solid #D2B48C;
   margin: 0.5em;
   page-align: center;
   margin-bottom:0.5em;
@@ -88,7 +88,7 @@ main {
   font-size: 0.9em;
   text-align: center;
   line-height: 1.2em;
-  color: floralwhite;
+  color: #FFFAF0;
 }
 
 #fact {
@@ -100,7 +100,7 @@ main {
   font-size: 2em;
   text-align: center;
   line-height: 1.2em;
-  color: navy;
+  color: #000080;
 }
 
 
